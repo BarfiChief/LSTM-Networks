@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Recurrent layers and their base classes.
 """
 from __future__ import absolute_import
