@@ -1,0 +1,35 @@
+Record mitdb/201
+Notes
+=====
+ 68 M 1960 2851 x1
+ Digoxin, Hydrochlorthiazide, Inderal, KCl
+ The PVCs are uniform and late-cycle.  Junctional escape beats occur following
+ episodes of ventricular trigeminy.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 201.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 972
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -519
+Group 0, Signal 1:
+ File: 201.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 982
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 30947

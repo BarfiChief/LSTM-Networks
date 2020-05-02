@@ -1,0 +1,34 @@
+Record mitdb/102
+Notes
+=====
+ 84 F 1525 167 x1
+ Digoxin
+ The rhythm is paced with a demand pacemaker.  The PVCs are multiform.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 102.dat
+ Description: V5
+ Gain: 200 adu/mV
+ Initial value: 984
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -28574
+Group 0, Signal 1:
+ File: 102.dat
+ Description: V2
+ Gain: 200 adu/mV
+ Initial value: 1025
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 13743

@@ -1,0 +1,36 @@
+Record mitdb/200
+Notes
+=====
+ 64 M 1953 3655 x1
+ Digoxin, Quinidine
+ The PVCs are multiform.  There are occasional bursts of high-frequency
+ noise in the upper channel, and severe noise and artifact in the lower
+ channel.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 200.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1094
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 12838
+Group 0, Signal 1:
+ File: 200.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1045
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -25533

@@ -1,0 +1,33 @@
+Record mitdb/115
+Notes
+=====
+ 39 F 994 167 x2
+ None
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 115.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 908
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 1470
+Group 0, Signal 1:
+ File: 115.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 957
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 31935

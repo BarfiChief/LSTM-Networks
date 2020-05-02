@@ -1,0 +1,35 @@
+Record mitdb/223
+Notes
+=====
+ 73 M 3070 654 x2
+ None
+ The PVCs are multiform.  The two longest episodes of ventricular tachycardia
+ are slow (100 to 105 bpm) and bidirectional.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 223.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 838
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -21596
+Group 0, Signal 1:
+ File: 223.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 992
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -19753

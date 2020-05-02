@@ -1,0 +1,37 @@
+Record mitdb/232
+Notes
+=====
+ 76 F 2777 3655 x2
+ Aldomet, Inderal
+ The rhythm is compatible with sick sinus syndrome.  There is underlying
+ sinus bradycardia, first degree AV block, and frequent ectopic atrial runs
+ at rates of 80 to 90 bpm.  There are numerous long pauses up to 6 seconds
+ in duration.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 232.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 975
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -3452
+Group 0, Signal 1:
+ File: 232.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1066
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -26934

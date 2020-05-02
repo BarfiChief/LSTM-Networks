@@ -1,0 +1,33 @@
+Record mitdb/103
+Notes
+=====
+ -1 M 742 654 x1
+ Diapres, Xyloprim
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 103.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 949
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 11457
+Group 0, Signal 1:
+ File: 103.dat
+ Description: V2
+ Gain: 200 adu/mV
+ Initial value: 1034
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -31983

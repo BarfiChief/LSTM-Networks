@@ -1,0 +1,33 @@
+Record mitdb/209
+Notes
+=====
+ 62 M 1202 654 x1
+ Aldomet, Hydrodiuril, Inderal
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 209.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1020
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -27806
+Group 0, Signal 1:
+ File: 209.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1056
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -31706

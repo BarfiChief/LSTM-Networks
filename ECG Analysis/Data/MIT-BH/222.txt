@@ -1,0 +1,36 @@
+Record mitdb/222
+Notes
+=====
+ 84 F 1633 1629 x1
+ Digoxin, Quinidine
+ The episodes of paroxysmal atrial flutter/fibrillation are usually
+ followed by nodal escape beats.  There are several intervals of
+ high-frequency noise/artifact in both channels.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 222.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 996
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -16993
+Group 0, Signal 1:
+ File: 222.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 949
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -25021

@@ -1,0 +1,35 @@
+Record mitdb/214
+Notes
+=====
+ 53 M 3189 1629 x1
+ Digoxin, Dilantin
+ The PVCs are multiform.  There are two episodes of artifactual amplitude
+ decrease and one occurrence of tape slippage.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 214.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1005
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -26794
+Group 0, Signal 1:
+ File: 214.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1029
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -8619

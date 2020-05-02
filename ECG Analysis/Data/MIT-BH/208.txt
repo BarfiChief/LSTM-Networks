@@ -1,0 +1,36 @@
+Record mitdb/208
+Notes
+=====
+ 23 F 2546 N/A x1
+ None
+ The PVCs are uniform.  The couplets, many of which include a fusion PVC, are
+ often seen in a bigeminal pattern.   The triplets each consist of two
+ PVCs and a fusion PVC.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 208.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1003
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 8074
+Group 0, Signal 1:
+ File: 208.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1062
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 20649

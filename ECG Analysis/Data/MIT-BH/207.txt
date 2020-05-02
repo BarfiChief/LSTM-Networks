@@ -1,0 +1,39 @@
+Record mitdb/207
+Notes
+=====
+ 89 F 859 694 x1
+ Digoxin, Quinaglute
+ This is an extremely difficult record.  The predominant rhythm is normal
+ sinus with first degree AV block and left bundle branch block.  There are
+ periods when the conduction block changes to a right bundle branch block
+ pattern.  The PVCs are multiform.  Idioventricular rhythm appears following
+ the longest episode of ventricular flutter.  The record ends during the
+ episode of SVTA.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 207.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 981
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 11594
+Group 0, Signal 1:
+ File: 207.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1043
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -9539

@@ -1,0 +1,34 @@
+Record mitdb/114
+Notes
+=====
+ 72 F 750 1629 x1
+ Digoxin
+ The PVCs are uniform.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 114.dat
+ Description: V5
+ Gain: 200 adu/mV
+ Initial value: 1015
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -11371
+Group 0, Signal 1:
+ File: 114.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1027
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -13230

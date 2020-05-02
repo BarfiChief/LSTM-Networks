@@ -1,0 +1,35 @@
+Record mitdb/111
+Notes
+=====
+ 47 F 937 167 x1
+ Digoxin, Lasix
+ There is first degree AV block.  There are short bursts of both baseline
+ shifts and muscle noise, but in general, the quality is excellent.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 111.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1017
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 20838
+Group 0, Signal 1:
+ File: 111.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1031
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 12452

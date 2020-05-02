@@ -1,0 +1,36 @@
+Record mitdb/213
+Notes
+=====
+ 61 M 2817 1629 x1
+ Digoxin
+ The PVCs are multiform and usually late-cycle, frequently resulting in
+ fusion PVCs.  The morphology of the fusion PVCs varies from almost normal
+ to almost identical to that of the PVCs.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 213.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1022
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 7666
+Group 0, Signal 1:
+ File: 213.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 901
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 24094

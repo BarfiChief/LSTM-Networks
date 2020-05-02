@@ -1,0 +1,33 @@
+Record mitdb/100
+Notes
+=====
+ 69 M 1085 1629 x1
+ Aldomet, Inderal
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 100.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 995
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -22131
+Group 0, Signal 1:
+ File: 100.dat
+ Description: V5
+ Gain: 200 adu/mV
+ Initial value: 1011
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 20052

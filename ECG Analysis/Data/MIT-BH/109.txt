@@ -1,0 +1,34 @@
+Record mitdb/109
+Notes
+=====
+ 64 M 1508 694 x1
+ Quinidine
+ There is first degree AV block.  The PVCs are multiform.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 109.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 1059
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 24085
+Group 0, Signal 1:
+ File: 109.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1151
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 27089

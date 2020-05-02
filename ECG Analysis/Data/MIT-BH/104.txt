@@ -1,0 +1,36 @@
+Record mitdb/104
+Notes
+=====
+ 66 F 1567 694 x1
+ Digoxin, Pronestyl
+ The rate of paced rhythm is close to that of the underlying sinus rhythm,
+ resulting in many pacemaker fusion beats.  The PVCs are multiform.  Several
+ bursts of muscle noise occur, but the signals are generally of good quality.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 104.dat
+ Description: V5
+ Gain: 200 adu/mV
+ Initial value: 994
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -14371
+Group 0, Signal 1:
+ File: 104.dat
+ Description: V2
+ Gain: 200 adu/mV
+ Initial value: 1064
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 17572

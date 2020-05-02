@@ -1,0 +1,36 @@
+Record mitdb/108
+Notes
+=====
+ 87 F 1227 654 x1
+ Digoxin, Quinaglute
+ There is borderline first degree AV block and sinus arrhythmia.  The
+ PVCs are multiform.  The lower channel exhibits considerable noise and
+ baseline shifts.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 108.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 999
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -24080
+Group 0, Signal 1:
+ File: 108.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 868
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -28914

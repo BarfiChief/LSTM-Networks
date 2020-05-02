@@ -1,0 +1,34 @@
+Record mitdb/122
+Notes
+=====
+ 51 M 640 654 x2
+ Digoxin, Lasix, Pronestyl
+ The lower channel has low-amplitude high-frequency noise throughout.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 122.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 868
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -14865
+Group 0, Signal 1:
+ File: 122.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 877
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 19763

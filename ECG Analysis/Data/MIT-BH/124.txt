@@ -1,0 +1,34 @@
+Record mitdb/124
+Notes
+=====
+ 77 M 1199 653 x2
+ Digoxin, Isordil, Quinidine
+ The PVCs are multiform.  The junctional escape beats follow PVCs.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 124.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 824
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 9673
+Group 0, Signal 1:
+ File: 124.dat
+ Description: V4
+ Gain: 200 adu/mV
+ Initial value: 887
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 29880

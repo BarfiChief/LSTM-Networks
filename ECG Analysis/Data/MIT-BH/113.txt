@@ -1,0 +1,35 @@
+Record mitdb/113
+Notes
+=====
+ 24 F 1240 2851 x1
+ None
+ The variation in the rate of normal sinus rhythm is possibly due to a
+ wandering atrial pacemaker.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 113.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 932
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -32352
+Group 0, Signal 1:
+ File: 113.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1050
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 24178

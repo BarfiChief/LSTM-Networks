@@ -1,0 +1,35 @@
+Record mitdb/212
+Notes
+=====
+ 32 F 2879 171 x1
+ None
+ There is rate-related right bundle branch block which appears when the heart
+ rate exceeds approximately 90 bpm.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 212.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 924
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 30934
+Group 0, Signal 1:
+ File: 212.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 1034
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: -31408

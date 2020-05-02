@@ -1,0 +1,35 @@
+Record mitdb/219
+Notes
+=====
+ -1 M 978 654 x1
+ Digoxin
+ Following some conversions from atrial fibrillation to normal sinus
+ rhythm are pauses up to 3 seconds in duration.  The PVCs are multiform.
+=====
+
+Starting time: not specified
+Length:    30:05.556 (650000 sample intervals)
+Sampling frequency: 360 Hz
+2 signals
+Group 0, Signal 0:
+ File: 219.dat
+ Description: MLII
+ Gain: 200 adu/mV
+ Initial value: 885
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 19659
+Group 0, Signal 1:
+ File: 219.dat
+ Description: V1
+ Gain: 200 adu/mV
+ Initial value: 833
+ Storage format: 212
+ I/O: can be unbuffered
+ ADC resolution: 11 bits
+ ADC zero: 1024
+ Baseline: 1024
+ Checksum: 28558
